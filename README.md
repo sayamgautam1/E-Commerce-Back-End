@@ -3,14 +3,20 @@
  ![badge](https://img.shields.io/badge/license-MIT-yellow)<br />
  ## Description
  This is an E-commerce backend node.js backend that involves the use of an express.js server and a SQL database. It includes RESTful APIs that has CRUD functionality. It also implemements the usage of sequelize as its ORM tool to convert data to and from the database. Because it is a backend only application, Insomnia was used in order to make requests to the APIs.
- ## Table of Contents
- - [Description](#description)
- - [Installation](#installation)
- - [Usage](#usage)
- - [License](#license)
- - [Questions](#questions)
- ## Installation
- To get started clone this repository using
+
+[Live Link](https://youtu.be/nPs0FYrqra8)
+
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
+
+## Installation
+
+To get started clone this repository using
 
 ```
 https://github.com/sayamgautam1/E-Commerce-Back-End.git
